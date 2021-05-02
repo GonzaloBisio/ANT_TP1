@@ -1,4 +1,4 @@
-# Gonzalo Tomas Bisio Griffa (Modificacion 2)
+# Gonzalo Bisio Griffa (Modificacion1)
 
 ### Datos Personales:
 * SOBRE MI
