@@ -1,4 +1,5 @@
-# Gonzalo Bisio Griffa (Modificacion1)
+# Gonzalo Bisio Griffa (Modificacion1 y 2 mergeado)
+Prueba merge
 
 ### Datos Personales:
 * SOBRE MI
@@ -14,3 +15,7 @@
   - Español(Avanzado)
   - Frances(Medio)
   - Aleman(Medio)
+
+Local: The file on the branch where you are merging  
+Remote: The file on the branch from where you are merging  
+Base: The common ancestor of $LOCAL and $REMOTE, ie. the point where the two branches started diverting the considered file
